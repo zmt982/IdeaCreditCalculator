@@ -6,10 +6,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert title here 1</title>
 </head>
 <body>
-	<h1>List of books</h1>
+	<h1>List of books 1</h1>
 
 	<%
 	for (String book : DatabaseFacade.getBooks()) {
